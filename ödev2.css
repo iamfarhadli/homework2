@@ -1,0 +1,41 @@
+.menu{   
+    background-color: darkblue;
+    color: white;
+    padding-top: 0px;
+    padding-bottom: 35px;
+}
+ul{
+    margin: 5px 5px ;
+  padding: 0;
+  padding-top: 15px;
+}
+
+li{
+    display: inline;
+    list-style-type: none;
+    float: right;
+    padding-left: 20px;
+    padding-top: 0px;
+}
+.bas{
+    float: left;
+}
+div{
+    background-color: darkcyan;
+}
+.avatar{
+   width: 100px;
+   height: 100px; 
+   display:block;
+   margin:auto;
+   padding-bottom: 250px;
+   text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+.pics{
+    padding: 50px 400px; 
+    
+}
